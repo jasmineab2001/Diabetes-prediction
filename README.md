@@ -1,5 +1,3 @@
-# Diabetes-prediction
-Healthcare prediction-diabetes
 # Diabetes Prediction
 
 This project is focused on analyzing and predicting diabetes using the Pima Indians Diabetes Database. The analysis includes data preprocessing, exploratory data analysis (EDA), and applying machine learning models to predict the likelihood of diabetes.
