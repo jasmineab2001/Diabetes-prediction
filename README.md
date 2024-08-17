@@ -73,12 +73,3 @@ The project results include:
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request. Your contributions are welcome!
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```css
-/* This README provides a clear and structured overview of the project, including instructions on how to use and contribute to it. You can adjust the repository link, project name, and other specific details as needed. */
-```
-```
-
